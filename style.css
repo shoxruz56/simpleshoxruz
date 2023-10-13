@@ -1,0 +1,62 @@
+body{
+    background-image: url('./14Ways1.jpg') ;
+}
+
+.top{
+   display: inline-block;
+   width: 20%; 
+}
+.y{
+    margin-top: 15px;
+    background-color: transparent;
+}
+h1{
+    background-color: green;
+    border-radius: 20px;
+    
+
+}
+textarea{
+    width: 100px;
+    height: 200px;
+    resize: none;
+    border-radius: 20px;
+    background-color: transparent;
+}
+button{
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+    border-radius: 10px;
+    height: 30px;
+
+}
+button:hover{
+    cursor: pointer;
+    background-color: transparent;
+}
+#text{
+    width: 100%;
+    display: block;
+}
+.shox{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-image: ;
+    border-radius: 20px;
+    padding: 20px;
+    border-color: black;
+}
+fieldset{
+    border-color: black;
+    border-radius: 10px;
+}
+#contan{
+    border-radius: 20px;
+}
+legend:hover{
+    transform: translateY(-20px);
+}
+legend{
+    transition: all 0.3s;
+}
